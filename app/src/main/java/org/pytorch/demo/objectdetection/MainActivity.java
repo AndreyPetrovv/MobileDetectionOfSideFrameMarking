@@ -35,9 +35,9 @@ import androidx.core.content.ContextCompat;
 
 import com.google.android.material.bottomsheet.BottomSheetDialog;
 
-import org.pytorch.Module;
+// import org.pytorch.Module;
 import org.pytorch.PyTorchAndroid;
-
+import org.pytorch.LiteModuleLoader;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
